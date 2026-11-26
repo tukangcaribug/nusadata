@@ -1,0 +1,40 @@
+{
+  "shots": [
+    {
+      "file": "1-home.jpg",
+      "note": "Beranda desktop: hero, 8 kartu stat 2024, grafik pertumbuhan PDB + inflasi, tabel 5 provinsi terpadat, kartu tautan seksi, rilis terbaru.",
+      "route": "#/",
+      "viewport": {
+        "width": 1280,
+        "height": 1000
+      }
+    },
+    {
+      "file": "2-economy.jpg",
+      "note": "Halaman ekonomi desktop: pemilih tahun 2024, kartu PDB/pertumbuhan/PDB per kapita/inflasi/ekspor/impor/surplus/gini, grafik PDB + pertumbuhan, tabel ringkasan 2019-2024.",
+      "route": "#/ekonomi",
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    {
+      "file": "3-regions.jpg",
+      "note": "Halaman wilayah desktop: kolom cari, tombol urutkan (populasi/kepadatan/nama), tabel 38 provinsi.",
+      "route": "#/wilayah",
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    {
+      "file": "4-home-phone.jpg",
+      "note": "Beranda HP 390px: kartu menumpuk rapi, nav vertikal, tanpa overflow horizontal.",
+      "route": "#/",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    }
+  ]
+}
